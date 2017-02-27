@@ -1,0 +1,36 @@
+Sin meter nada nuevo
+    tipado dinamico
+    propiedades de tipado
+    autocompletado
+    variables que no existen
+    variables sin tipo
+
+Metiendo tipos
+    tipando parametros
+    tipando retornos
+    error al usar variables de otro tipo
+    parametros opcionales
+    arrays tipados
+    uniendo tipos
+    enumerados
+    funciones
+    autocompletado de objetos
+    error tipos inferidos de objetos
+    tipando objetos
+    claves opcionales
+    errores por erratas
+    clases en ts
+    constructor
+    asignacion de clases a tipos 
+    interfaces
+
+
+
+
+
+
+
+Obligando a tipar
+    configurando ts (noimplicitany)
+    tipo any
+    objetos any no se comprueba
